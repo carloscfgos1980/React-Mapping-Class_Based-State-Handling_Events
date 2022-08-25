@@ -22,6 +22,7 @@ https://scrimba.com/scrim/c2Nm2cV?pl=p7P5Hd
 
 # 20. Lesson # 34. React setState: Changing the State
 https://scrimba.com/scrim/cLKWEcZ?pl=p7P5Hd
+# Here I added a Lesson from Winc Academy about two ways of setState
 
 # 21. React setState: Copy Arrays And Objects
 https://board.wincacademy.nl/unit/view/id:5501
